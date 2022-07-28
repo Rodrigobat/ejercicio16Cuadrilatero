@@ -1,0 +1,15 @@
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\obj\Debug\net6.0\ejercicioClase16Cuadrilateros.csproj.AssemblyReference.cache
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\obj\Debug\net6.0\ejercicioClase16Cuadrilateros.GeneratedMSBuildEditorConfig.editorconfig
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\obj\Debug\net6.0\ejercicioClase16Cuadrilateros.AssemblyInfoInputs.cache
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\obj\Debug\net6.0\ejercicioClase16Cuadrilateros.AssemblyInfo.cs
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\obj\Debug\net6.0\ejercicioClase16Cuadrilateros.csproj.CoreCompileInputs.cache
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\bin\Debug\net6.0\ejercicioClase16Cuadrilateros.exe
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\bin\Debug\net6.0\ejercicioClase16Cuadrilateros.deps.json
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\bin\Debug\net6.0\ejercicioClase16Cuadrilateros.runtimeconfig.json
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\bin\Debug\net6.0\ejercicioClase16Cuadrilateros.dll
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\bin\Debug\net6.0\ref\ejercicioClase16Cuadrilateros.dll
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\bin\Debug\net6.0\ejercicioClase16Cuadrilateros.pdb
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\obj\Debug\net6.0\ejercicioClase16Cuadrilateros.dll
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\obj\Debug\net6.0\ref\ejercicioClase16Cuadrilateros.dll
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\obj\Debug\net6.0\ejercicioClase16Cuadrilateros.pdb
+F:\portfolio\c#politecnico\ejercicioClase16Cuadrilateros\obj\Debug\net6.0\ejercicioClase16Cuadrilateros.genruntimeconfig.cache
